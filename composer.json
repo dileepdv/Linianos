@@ -1,0 +1,13 @@
+{
+    "name": "Application",
+    "description": "Application",
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "Dileep DV",
+            "email": "dileep729@gmail.com"
+        }
+    ]
+}
